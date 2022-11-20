@@ -8,4 +8,4 @@ The primary service rendered by a law firm is to advise clients (individuals or 
 
 Project:
 
-https://liberty-law.vercel.app/
+https://wal-wizard.github.io/Liberty-Law/
